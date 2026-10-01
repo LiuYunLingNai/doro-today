@@ -1,0 +1,440 @@
+[
+    {
+        "id": "doro_01",
+        "title": "摆烂结局",
+        "description": "作为树懒领悟真理：静止本身就是种强大力量。",
+        "image": "ending/摆烂结局.jpg"
+    },
+    {
+        "id": "doro_02",
+        "title": "摆摊结局",
+        "description": "支起小摊卖doro周边，攒钱只为买更多哦润吉。",
+        "image": "ending/摆摊结局.jpg"
+    },
+    {
+        "id": "doro_03",
+        "title": "吃白饭结局",
+        "description": "凭可爱白吃白喝，最终成为全群团宠全家桶。",
+        "image": "ending/吃白饭结局.jpg"
+    },
+    {
+        "id": "doro_04",
+        "title": "打工人结局",
+        "description": "作为工蚁搬运哦润吉，享受无需周报的简单劳作。",
+        "image": "ending/打工人结局.jpg"
+    },
+    {
+        "id": "doro_05",
+        "title": "打灰结局",
+        "description": "混进工地打灰，在混凝土里悄悄按下可爱的爪印。",
+        "image": "ending/打灰结局.jpg"
+    },
+    {
+        "id": "doro_06",
+        "title": "打胶结局",
+        "description": "给生活打上密封胶，把漏风的日子仔仔细细补好。",
+        "image": "ending/打胶结局.jpg"
+    },
+    {
+        "id": "doro_07",
+        "title": "大运结局",
+        "description": "搭上时代的快车，闭眼冲线拿下人生大运。",
+        "image": "ending/大运结局.jpg"
+    },
+    {
+        "id": "doro_08",
+        "title": "单推结局",
+        "description": "心无旁骛只爱一个推，其余全部划走，纯粹而专一。",
+        "image": "ending/单推结局.jpg"
+    },
+    {
+        "id": "doro_09",
+        "title": "地瓜结局",
+        "description": "扎根泥土长成烤地瓜，暖手又暖心。",
+        "image": "ending/地瓜结局.jpg"
+    },
+    {
+        "id": "doro_10",
+        "title": "登记结局",
+        "description": "与穿婚纱的doro缔结契约，共享哦润吉味的日常。",
+        "image": "ending/登记结局.jpg"
+    },
+    {
+        "id": "doro_11",
+        "title": "恩情结局",
+        "description": "被一句恩情记住一辈子，把人情债还得明明白白。",
+        "image": "ending/恩情结局.jpg"
+    },
+    {
+        "id": "doro_12",
+        "title": "疯狂星期四结局",
+        "description": "又是疯狂星期四，v我50，哦润吉管够。",
+        "image": "ending/疯狂星期四结局.jpg"
+    },
+    {
+        "id": "doro_13",
+        "title": "高考结局",
+        "description": "在焦虑与哦润吉的陪伴下，最终跨越高考的独木桥。",
+        "image": "ending/高考结局.jpg"
+    },
+    {
+        "id": "doro_14",
+        "title": "怪猎结局",
+        "description": "扛起大剑狩猎古龙，素材箱里装的却全是哦润吉。",
+        "image": "ending/怪猎结局.jpg"
+    },
+    {
+        "id": "doro_15",
+        "title": "国潮外卖结局",
+        "description": "骑上电动车送国潮外卖，保温箱里全是打包好的哦润吉。",
+        "image": "ending/国潮外卖结局.jpg"
+    },
+    {
+        "id": "doro_16",
+        "title": "好结局",
+        "description": "与伴侣平静相守，世界仿佛被哦润吉的甜蜜填满。",
+        "image": "ending/好结局.jpg"
+    },
+    {
+        "id": "doro_17",
+        "title": "好梦结局",
+        "description": "在小笨床的温柔拥抱中，获得短暂逃避现实的喘息。",
+        "image": "ending/好梦结局.jpg"
+    },
+    {
+        "id": "doro_18",
+        "title": "蝴蝶结局",
+        "description": "化作五彩蝴蝶随风起舞，与喔润吉共度诗意短暂人生。",
+        "image": "ending/蝴蝶结局.jpg"
+    },
+    {
+        "id": "doro_19",
+        "title": "坏结局",
+        "description": "doro与你穿越到1941年的苏联，在刺骨风雪中坚持等待黎明。",
+        "image": "ending/坏结局.jpg"
+    },
+    {
+        "id": "doro_20",
+        "title": "幻想结局",
+        "description": "沉溺于脑内剧场，那里一切愿望都能被哦润吉满足。",
+        "image": "ending/幻想结局.jpg"
+    },
+    {
+        "id": "doro_21",
+        "title": "火车结局",
+        "description": "坐上永不靠站的火车，在轨道延伸处遇见新的世界。",
+        "image": "ending/火车结局.jpg"
+    },
+    {
+        "id": "doro_22",
+        "title": "火车结局（上）",
+        "description": "火车启程，嘈杂的站台把旧生活甩在身后。",
+        "image": "ending/火车结局（上）.jpg"
+    },
+    {
+        "id": "doro_23",
+        "title": "火车结局（下）",
+        "description": "火车到站，站外是尚未命名的明天。",
+        "image": "ending/火车结局（下）.jpg"
+    },
+    {
+        "id": "doro_24",
+        "title": "火车结局（中）",
+        "description": "火车穿过隧道，黑暗尽头有一束若隐若现的光。",
+        "image": "ending/火车结局（中）.jpg"
+    },
+    {
+        "id": "doro_25",
+        "title": "火车难题最优解结局",
+        "description": "面对扳道难题，你选择了一种让所有人都笑出来的解法。",
+        "image": "ending/火车难题最优解结局.png"
+    },
+    {
+        "id": "doro_26",
+        "title": "火影结局",
+        "description": "戴上护额追逐梦想，忍道尽头是全村一起吃哦润吉。",
+        "image": "ending/火影结局.jpg"
+    },
+    {
+        "id": "doro_27",
+        "title": "几把结局",
+        "description": "被命运反复把玩，最后笑着把一切都当成乐子。",
+        "image": "ending/几把结局.jpg"
+    },
+    {
+        "id": "doro_28",
+        "title": "键盘结局",
+        "description": "你变成承载愤怒与争吵的键盘，最终在过度使用后报废。",
+        "image": "ending/键盘结局.jpg"
+    },
+    {
+        "id": "doro_29",
+        "title": "降维结局",
+        "description": "在二向箔的绚烂中，与哦润吉共同成为永恒表情包。",
+        "image": "ending/降维结局.jpg"
+    },
+    {
+        "id": "doro_30",
+        "title": "精神混乱结局",
+        "description": "古书的低语让你眼中万物皆化作哦润吉形态。",
+        "image": "ending/精神混乱结局.jpg"
+    },
+    {
+        "id": "doro_31",
+        "title": "救赎结局",
+        "description": "用一生把弄丢的温柔，一点一点重新找回来。",
+        "image": "ending/救赎结局.jpg"
+    },
+    {
+        "id": "doro_32",
+        "title": "康复结局",
+        "description": "从病恹恹里被哦润吉治好，重新长出毛茸茸的活力。",
+        "image": "ending/康复结局.jpg"
+    },
+    {
+        "id": "doro_33",
+        "title": "考研结局",
+        "description": "doro闭关修炼，最终成功上岸理想院校！",
+        "image": "ending/考研结局.jpg"
+    },
+    {
+        "id": "doro_34",
+        "title": "垃圾结局",
+        "description": "躺进垃圾桶装可爱，被当成可回收的快乐捡起。",
+        "image": "ending/垃圾结局.jpg"
+    },
+    {
+        "id": "doro_35",
+        "title": "灵感菇结局",
+        "description": "中毒幻觉里与歌舞小人狂欢，醒来后更珍惜哦润吉。",
+        "image": "ending/灵感菇结局.jpg"
+    },
+    {
+        "id": "doro_36",
+        "title": "旅游结局",
+        "description": "背上行囊环游世界，把每个驿站都过成哦润吉味的家。",
+        "image": "ending/旅游结局.jpg"
+    },
+    {
+        "id": "doro_37",
+        "title": "曼巴结局",
+        "description": "凌晨四点的洛杉矶，你成了那条偏执到底的曼巴。",
+        "image": "ending/曼巴结局.jpg"
+    },
+    {
+        "id": "doro_38",
+        "title": "摸鱼结局",
+        "description": "doro巧妙平衡工作与休息，成为摸鱼大师！",
+        "image": "ending/摸鱼结局.jpg"
+    },
+    {
+        "id": "doro_39",
+        "title": "内阁结局",
+        "description": "被推举进了内阁，却在会议桌下偷偷啃哦润吉。",
+        "image": "ending/内阁结局.jpg"
+    },
+    {
+        "id": "doro_40",
+        "title": "内卷结局",
+        "description": "doro不慎陷入内卷漩涡，需要寻找新的出路。",
+        "image": "ending/内卷结局.jpg"
+    },
+    {
+        "id": "doro_41",
+        "title": "哦润几结局",
+        "description": "满口哦润吉碎碎念，把日子过成一句甜腻的口头禅。",
+        "image": "ending/哦润几结局.jpg"
+    },
+    {
+        "id": "doro_42",
+        "title": "迫降结局",
+        "description": "生日惊喜中断航班，在友情喧闹中延误人生。",
+        "image": "ending/迫降结局.jpg"
+    },
+    {
+        "id": "doro_43",
+        "title": "日落结局",
+        "description": "在黄昏里坐成剪影，等最后一口哦润吉被晚霞融化。",
+        "image": "ending/日落结局.jpg"
+    },
+    {
+        "id": "doro_44",
+        "title": "砂糖桔结局",
+        "description": "化身砂糖桔，被一瓣一瓣地分给最爱的人。",
+        "image": "ending/砂糖桔结局.jpg"
+    },
+    {
+        "id": "doro_45",
+        "title": "删除结局",
+        "description": "被误按删除键，在回收站里等待一个永不到来的还原。",
+        "image": "ending/删除结局.jpg"
+    },
+    {
+        "id": "doro_46",
+        "title": "上班结局",
+        "description": "准时打卡成为工位的一部分，工牌上刻着doro的名字。",
+        "image": "ending/上班结局.jpg"
+    },
+    {
+        "id": "doro_47",
+        "title": "社畜觉醒结局？",
+        "description": "又一次摔门而出，这次你分不清是梦，还是真的醒了。",
+        "image": "ending/社畜觉醒结局？.jpg"
+    },
+    {
+        "id": "doro_48",
+        "title": "社畜觉醒结局",
+        "description": "梦中摔门追寻理想，醒来继续面对闪烁的Excel。",
+        "image": "ending/社畜觉醒结局.jpg"
+    },
+    {
+        "id": "doro_49",
+        "title": "社恐结局",
+        "description": "缩进蜗牛壳逃避人群，雨中怀念哦润吉的香甜。",
+        "image": "ending/社恐结局.jpg"
+    },
+    {
+        "id": "doro_50",
+        "title": "生日结局",
+        "description": "在烛光与歌声里，把愿望许成一颗甜到发光的哦润吉。",
+        "image": "ending/生日结局.jpg"
+    },
+    {
+        "id": "doro_51",
+        "title": "石头结局",
+        "description": "河岸万年孤寂中，连喔润吉都成奢侈幻想。",
+        "image": "ending/石头结局.jpg"
+    },
+    {
+        "id": "doro_52",
+        "title": "视奸结局",
+        "description": "躲在屏幕后偷偷看世界，在数据流里做安静的旁观者。",
+        "image": "ending/视奸结局.jpg"
+    },
+    {
+        "id": "doro_53",
+        "title": "糖梦果结局",
+        "description": "在糖果森林里沉睡，连呼吸都是甜的。",
+        "image": "ending/糖梦果结局.jpg"
+    },
+    {
+        "id": "doro_54",
+        "title": "躺平结局",
+        "description": "作为鱼缸吉祥物，用泡泡回应投喂的哦润吉残渣。",
+        "image": "ending/躺平结局.jpg"
+    },
+    {
+        "id": "doro_55",
+        "title": "躺赢结局",
+        "description": "doro运气爆棚，意外获得完美结局！",
+        "image": "ending/躺赢结局.jpg"
+    },
+    {
+        "id": "doro_56",
+        "title": "逃离结局",
+        "description": "挣脱所有格子与轨道，朝着没人定义的方向跑去。",
+        "image": "ending/逃离结局.jpg"
+    },
+    {
+        "id": "doro_57",
+        "title": "拖延症结局",
+        "description": "化身概念神明，总在deadline最后一秒创造奇迹。",
+        "image": "ending/拖延症结局.jpg"
+    },
+    {
+        "id": "doro_58",
+        "title": "万物起源结局",
+        "description": "化作宇宙第一粒哦润吉种子，见证万物从甜开始。",
+        "image": "ending/万物起源结局.jpg"
+    },
+    {
+        "id": "doro_59",
+        "title": "下海结局",
+        "description": "一头扎进商海扑腾，最后学会了在浪里喝哦润吉。",
+        "image": "ending/下海结局.jpg"
+    },
+    {
+        "id": "doro_60",
+        "title": "下水道结局",
+        "description": "潜入城市下水道，与mango乌龟结伴寻找披萨。",
+        "image": "ending/下水道结局.jpg"
+    },
+    {
+        "id": "doro_61",
+        "title": "相遇结局",
+        "description": "在人海千万分之一里，终于和你隔着街平静对视。",
+        "image": "ending/相遇结局.jpg"
+    },
+    {
+        "id": "doro_62",
+        "title": "小精灵结局",
+        "description": "钻出屏幕变成小精灵，在电线上蹦跳给你带来好运。",
+        "image": "ending/小精灵结局.jpg"
+    },
+    {
+        "id": "doro_63",
+        "title": "小面包结局",
+        "description": "烤成一只松软小面包，被温柔地掰开与人分享。",
+        "image": "ending/小面包结局.jpg"
+    },
+    {
+        "id": "doro_64",
+        "title": "影子结局",
+        "description": "作为沉默见证者，用轮廓勾勒他人生命的立体感。",
+        "image": "ending/影子结局.jpg"
+    },
+    {
+        "id": "doro_65",
+        "title": "永生结局",
+        "description": "被时间遗忘，在无尽岁月里陪着哦润吉慢慢变老。",
+        "image": "ending/永生结局.jpg"
+    },
+    {
+        "id": "doro_66",
+        "title": "云结局",
+        "description": "自由变幻形态漂浮天际，领悟变化即是新生的真谛。",
+        "image": "ending/云结局.jpg"
+    },
+    {
+        "id": "doro_67",
+        "title": "终结者结局",
+        "description": "从未来穿越回来，只为阻止自己错过哦润吉。",
+        "image": "ending/终结者结局.jpg"
+    },
+    {
+        "id": "doro_68",
+        "title": "众包结局",
+        "description": "把人生拆成无数小任务外包出去，自己只负责发呆。",
+        "image": "ending/众包结局.jpg"
+    },
+    {
+        "id": "doro_69",
+        "title": "重逢结局",
+        "description": "绕过整个星球，在最初的路口再次遇见你。",
+        "image": "ending/重逢结局.jpg"
+    },
+    {
+        "id": "doro_70",
+        "title": "DORO A梦结局",
+        "description": "化身蓝胖A梦，从四次元口袋里源源不断掏出哦润吉。",
+        "image": "ending/DORO A梦结局.jpg"
+    },
+    {
+        "id": "doro_71",
+        "title": "Doro结局",
+        "description": "成为静止的粉色小狗，用不动哲学抵御世间纷扰。",
+        "image": "ending/Doro结局.jpg"
+    },
+    {
+        "id": "doro_72",
+        "title": "mango结局",
+        "description": "熟成一颗芒果，在热带阳光下把甜味酿成永恒。",
+        "image": "ending/mango结局.jpg"
+    },
+    {
+        "id": "doro_73",
+        "title": "spidoro结局",
+        "description": "被变异doro咬了一口，从此在高楼间吐丝荡秋千。",
+        "image": "ending/spidoro结局.jpg"
+    }
+]
